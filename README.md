@@ -15,8 +15,7 @@ cd canyon-runner/
 
 nasm -f win64 canyon_runner.asm -o canyon_runner.obj
 
-gcc canyon_runner.obj -o canyon_runner.exe -lkernel32 -luser32 -lgdi32 -mwindows -nostartfiles -e start
-canyon_runner.exe
+gcc canyon_runner.obj -o canyon_runner.exe -lkernel32 -luser32 -lgdi32 -mwindows -nostartfiles
 ```
 
 
