@@ -20,8 +20,8 @@ canyon_runner.exe
 ```
 
 
-```text After the compilation .exe file is generated, double-click the .exe file and Enjoy the game!!
-```
+#### After compilation .exe file is generated, double-click the .exe file and Enjoy the game!!
+
 
 # Author
 
