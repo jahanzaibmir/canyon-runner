@@ -19,7 +19,7 @@ gcc canyon_runner.obj -o canyon_runner.exe -lkernel32 -luser32 -lgdi32 -mwindows
 canyon_runner.exe
 ```
 
-*** After the compilation .exe file is generated, double-click the .exe file and Enjoy the game!!***
+*** After the compilation .exe file is generated, double-click the .exe file and Enjoy the game!!
 
 # Author
 
